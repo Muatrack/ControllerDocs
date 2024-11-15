@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'ITower'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.20'
+version = '1.20.241111'
 
 # -- General configuration
 
