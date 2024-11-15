@@ -20,4 +20,5 @@ Contents
 
    usage
    env
-   api   
+   api
+   中文
