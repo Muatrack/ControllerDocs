@@ -21,4 +21,4 @@ Contents
    usage
    env
    api
-   中文
+   cn
