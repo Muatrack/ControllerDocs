@@ -9,8 +9,6 @@
        :height: 64px
        :width: 100%
 
-    .. file:: ./index.rst
-
     --展示表格--
 
     =====  =====  =======

@@ -1,6 +1,6 @@
 
 PlayGround
-    Let's learn reStructuredText [#参见1]_ ! You'll see a footnote [#参见2]_.
+    Let's learn reStructuredText ! You'll see a footnote .
 
     :term: dkkkkkfa
     :选项测试: 选项列表
