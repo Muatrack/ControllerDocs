@@ -7,4 +7,4 @@
 
     进入后页面如图所示: 
 
-.. image:: /_static/imags/pt-report.png
+.. image:: /_static/imags/platform-report.png
