@@ -12,3 +12,6 @@
     docs/controller/features
     docs/controller/upgrade
     docs/controller/glossary
+    docs/human/index
+    docs/temperature/index
+    docs/collector/index
