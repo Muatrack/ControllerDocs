@@ -1,3 +1,6 @@
+DocsRoot
+----------
+
 .. totree::
     playground
 
