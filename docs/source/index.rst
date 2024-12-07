@@ -15,3 +15,4 @@
     docs/temperature/index
     docs/collector/index
     docs/controller/glossary
+    docs/testcase/index
