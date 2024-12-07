@@ -10,8 +10,8 @@
     :name: mastertoc
 
     docs/controller/features
-    docs/controller/upgrade
-    docs/controller/glossary
+    docs/controller/upgrade    
     docs/human/index
     docs/temperature/index
     docs/collector/index
+    docs/controller/glossary
