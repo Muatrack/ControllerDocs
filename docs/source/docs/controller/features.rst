@@ -1,29 +1,8 @@
 功能介绍
 ++++++++++++
 
-.. totree::
-    playground
-
 数据可视化
 ==============
-    `平台地址 <https://bing.com>`_
-
-    电量统计数据_
-
-    .. image:: https://dac-tutorial.github.io/dac-tut/_images/rst-insert-sphinx.jpg
-       :height: 64px
-       :width: 100%
-
-    --展示表格--
-
-    =====  =====  =======
-      A      B    A and B
-    =====  =====  =======
-    False  False  False
-    True   False  False
-    False  True   False
-    True   True   True
-    =====  =====  =======
 
 电气数据
 *************
