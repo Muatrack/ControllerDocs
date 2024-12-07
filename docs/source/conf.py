@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'common-utils'
-copyright = '2024, Mouyas'
-author = 'Mouyas'
+project = '控制器'
+copyright = '2024, Mouyase'
+author = 'Mouyase'
 release = 'v1.0.0'
 
 # -- General configuration ---------------------------------------------------
@@ -19,7 +19,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'ch'
+language = 'zh-CN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
