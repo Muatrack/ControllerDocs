@@ -1,6 +1,9 @@
-DocsRoot
+概要及目录
 ----------
 
+----
+
 .. toctree::
-    docs/controller_features
-    docs/controller_update
+    docs/controller/features
+    docs/controller/upgrade
+    docs/controller/glossary
