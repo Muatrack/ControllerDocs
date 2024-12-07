@@ -1,7 +1,5 @@
-.. hi this is a brief for document...
-
-DocRoot
-========
+DocsRoot
+----------
 
 .. totree::
     playground
