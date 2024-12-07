@@ -4,6 +4,8 @@
 ----
 
 .. toctree::
+    :maxdepth: 3
+
     docs/controller/features
     docs/controller/upgrade
     docs/controller/glossary
