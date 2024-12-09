@@ -2,10 +2,4 @@
 ==============
 
     `下载测试用例 <https://nc.dontgo.us.kg/s/dAoR73HRDWfKDWM/download/%E7%94%A8%E7%94%B5%E6%95%B0%E6%8D%AE-1000.xlsx>`_
-
-
-----
-
-前置条件
-+++++++++
-    部署测试环境, 参考 :ref:`通用测试环境`
+    
