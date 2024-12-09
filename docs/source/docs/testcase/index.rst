@@ -6,3 +6,4 @@
     
     status/index
     exception/index
+    common_env
