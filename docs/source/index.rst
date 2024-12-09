@@ -13,6 +13,6 @@
     docs/controller/upgrade    
     docs/human/index
     docs/temperature/index
-    docs/collector/index
-    docs/controller/glossary
+    docs/collector/index    
     docs/testcase/index
+    docs/controller/glossary
