@@ -1,5 +1,5 @@
 状态同步-1000
 ==============
 
-    `下载测试用例 <https://nc.dontgo.us.kg/s/dAoR73HRDWfKDWM/download/%E7%94%A8%E7%94%B5%E6%95%B0%E6%8D%AE-1000.xlsx>`_
+    `下载测试用例 </_static/testcase/集成测试/采集器状态同步-1000.xlsx>`_
     
