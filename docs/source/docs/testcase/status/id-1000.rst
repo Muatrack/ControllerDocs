@@ -1,4 +1,4 @@
-用电数据-1000
+状态同步-1000
 ==============
 
     `下载测试用例 <https://nc.dontgo.us.kg/s/dAoR73HRDWfKDWM/download/%E7%94%A8%E7%94%B5%E6%95%B0%E6%8D%AE-1000.xlsx>`_
@@ -23,3 +23,8 @@
 
 .. image:: /_static/imags/deploy_struct.png
     :width: 100%
+
+----
+
+前置条件
++++++++++
