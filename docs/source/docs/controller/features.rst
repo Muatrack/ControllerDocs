@@ -184,6 +184,9 @@
 .. image:: /_static/imags/status_changing.png
     :width: 100%
 
+PowerSave-stragegy
+********************
+
 ..........
 
 .. rubric:: 注释
