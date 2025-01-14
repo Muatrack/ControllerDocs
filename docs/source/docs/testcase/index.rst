@@ -1,13 +1,9 @@
-测试项目
-=========
+集成&单元测试
+==============
 
 .. toctree::
     :maxdepth: 1
     
     status/index
     exception/index
-    functional/index
-    common_env
-
-`测试结果 <https://bing.com>`_
---------------------------------
+    functions/index
