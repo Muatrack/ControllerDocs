@@ -14,4 +14,4 @@ ps aux | grep 'sphinx-autobuild' | grep -v 'color=auto' | awk '{print $2}' | xar
 
 make clean
 make html
-sphinx-autobuild --host 127.0.0.1 --port 8080 source build/html &
+sphinx-autobuild --host 0.0.0.0 --port 8080   source build/html &
