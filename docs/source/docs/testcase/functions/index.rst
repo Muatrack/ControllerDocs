@@ -17,11 +17,13 @@
 
         id-2100.rst
         id-2101.rst
+        id-2102.rst
+        id-2103.rst
 
 ----
 
 ApiFox分合闸用例设置
--------------------
+---------------------
         .. image:: /_static/imags/apifox-testcase-switch.png
                 :width: 80%
 
