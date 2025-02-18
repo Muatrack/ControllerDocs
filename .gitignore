@@ -8,4 +8,5 @@
 
 
 docs/build/
-docs/source/_static/testcase/集成测试/~*docs/.evn/
+docs/source/_static/testcase/集成测试/~*
+docs/.evn/
