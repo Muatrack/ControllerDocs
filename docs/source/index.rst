@@ -5,10 +5,10 @@
     :maxdepth: 1
     :name: mastertoc
 
-    docs/about
+    docs/about        
+    docs/controller/index
     docs/testcase/index
     docs/common_env
-    docs/controller/index
     docs/glossary
 
 
