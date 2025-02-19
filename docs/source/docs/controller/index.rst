@@ -8,6 +8,8 @@
         :maxdepth: 2
 
         functions/powersave.rst
+        functions/restore-factory.rst
+        functions/slave-backup.rst
         functions/visibility.rst
 
 APIs
