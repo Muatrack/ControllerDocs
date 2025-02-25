@@ -10,6 +10,14 @@
         #. `2002-控制器_升级 </_static/testcase/单元测试/控制器-升级测试.xlsx>`_
         #. `2003-人体(MA)升级 </_static/testcase/单元测试/采集器-MA升级测试.xlsx>`_
 
+HTTP交互
+---------
+.. toctree::
+        :maxdepth: 1
+
+        id-2010.rst
+
+
 控制测试
 ---------
 .. toctree::
