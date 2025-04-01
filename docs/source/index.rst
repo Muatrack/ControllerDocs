@@ -2,10 +2,11 @@
 =============
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :name: mastertoc
 
-    docs/about        
+    docs/about
+    docs/features/index     
     docs/controller/index
     docs/testcase/index
     docs/common_env
