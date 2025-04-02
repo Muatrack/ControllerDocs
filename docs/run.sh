@@ -2,9 +2,9 @@
 
 if [ -d .env ]; then
 	echo "exit venv"
-	deactivate
+	#deactivate
 	echo "entry venv"
-	source .env/bin/activate
+	#source .env/bin/activate
 else
 	echo "No python venv exists"
 	exit
