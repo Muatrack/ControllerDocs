@@ -12,6 +12,7 @@
         functions/slave-backup.rst
         functions/replacement.rst
         functions/visibility.rst
+        functions/alerts.rst
 
 APIs
 ------
