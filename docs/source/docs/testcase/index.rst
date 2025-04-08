@@ -6,5 +6,4 @@
     
     status/index
     exception/index
-    functions/index
-    alerts/index
+    functions/index    
