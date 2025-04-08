@@ -7,3 +7,4 @@
     status/index
     exception/index
     functions/index
+    alerts/index
