@@ -56,6 +56,7 @@
         :maxdepth: 1
 
         alerts/id-2400.rst
+        alerts/id-2401.rst
         alerts/id-2420.rst
         alerts/id-2440.rst
 
