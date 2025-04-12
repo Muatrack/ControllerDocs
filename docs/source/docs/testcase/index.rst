@@ -6,4 +6,5 @@
     
     status/index
     exception/index
-    functions/index    
+    functions/index
+    factorytesting/index
