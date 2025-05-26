@@ -21,6 +21,13 @@ APIs
 
         apis/factory-test.rst
 
+通信协议
+-----------
+
+    .. toctree::
+        :amxdepth: 1
+        communication-protocol/index.rst
+
 ----
 
 未归类文本
