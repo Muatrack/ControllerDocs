@@ -1,2 +1,2 @@
 # Markdown Docs.
-<span style="color:red;"> Show RED color </span>
+<p style="color:red;"> Show RED color </p>
