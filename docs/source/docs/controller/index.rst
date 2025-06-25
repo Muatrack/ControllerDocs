@@ -7,6 +7,7 @@
     .. toctree::
         :maxdepth: 2
 
+        functions/configurations.rst
         functions/powersave.rst
         functions/restore-factory.rst
         functions/slave-backup.rst
